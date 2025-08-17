@@ -10,7 +10,7 @@
 
 1. 多模型接入：提供GPT、Claude、Gemini、Deepseek、Grok等多个厂商的主流模型
 
-![SillyTavern多模型选择](https://files.mdnice.com/user/75077/ca6dc9a4-1442-408f-ba6a-0dc2eb915b94.png)
+<img width="2048" height="1720" alt="SillyTavern多模型选择" src="https://github.com/user-attachments/assets/dfde0117-041a-471c-b0dc-8b06c07432c7" />
 
 2. 角色卡：提供角色卡导入，导入自己的或者云端的角色卡
 
